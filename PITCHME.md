@@ -1,12 +1,7 @@
-## Slide 1.1
+@snap[south-west text-03]
+1. Windows 10 Pro + Enterprise Editions
+@snapend
 
-```js
-var a = 1;
-```
+---?image=
 
-
-## Slide 1.2
-
-
-
-## Slide 2
+@title[Now It's Your Turn]
